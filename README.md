@@ -1,5 +1,7 @@
 # Lektionsrepo
 
+Flödesdiagram: https://www.figma.com/board/vV26VRnB2MtDETYspvClFf/Untitled?node-id=1-8&t=cEH12DftyxqnwQUk-0
+
 ## Övningar
 
 Pseudo code bootcamp: https://gist.github.com/zocom-christoffer-wallenberg/c0f0b135f2dd0f71994c87a0a66a3fb6
